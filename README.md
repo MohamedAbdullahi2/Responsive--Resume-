@@ -36,6 +36,8 @@ https://github.com/MohamedAbdullahi2/Responsive--Resume-.git
 
 Deployment Url :-
 
+https://mohamedabdullahi2.github.io/Responsive--Resume-/
+
 
 
 
